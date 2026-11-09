@@ -1,62 +1,86 @@
-# Ukraine's Foreign Trade in Goods, 2015–2024: Analytical Summary
+# Зовнішня торгівля товарами України, 2015–2024: аналітичний підсумок
 
-## Research scope and data
+## Предмет дослідження та дані
 
-The study examines Ukraine's foreign trade in goods during 2015–2024 using annual official statistics from the State Statistics Service of Ukraine. It considers five areas: overall exports, imports and trade balance; commodity composition of imports; average-price and physical-volume indices; import geography and supplier concentration; and the dynamics of selected major import product groups.
+У дослідженні розглянуто зовнішню торгівлю товарами України у 2015–2024 роках на основі річних офіційних статистичних даних Державної служби статистики України. Аналіз охоплює п'ять напрямків: загальну динаміку експорту, імпорту та зовнішньоторговельного балансу; товарну структуру імпорту; індекси середніх цін і фізичного обсягу; географію імпорту та концентрацію країн-постачальників; динаміку окремих основних товарних груп імпорту.
 
-Monetary values are presented in nominal US dollars. The study does not cover trade in services.
+Вартісні показники наведено в номінальних доларах США. Торгівля послугами в дослідженні не розглядається.
 
-## Key findings
+## Основні результати
 
-### 1. Imports grew faster than exports and the trade balance moved into deficit
+### 1. Імпорт зростав швидше за експорт, а зовнішньоторговельний баланс перейшов до дефіциту
 
-In 2015, exports exceeded imports by USD 0.61 billion. By 2024, imports reached USD 70.77 billion and exports USD 41.73 billion, producing a trade deficit of USD 29.04 billion. Between 2015 and 2024, the nominal value of imports increased by 88.64%, while exports increased by 9.46%.
+У 2015 році експорт перевищував імпорт на 0,61 млрд дол. США. У 2024 році імпорт становив 70,77 млрд дол. США, а експорт — 41,73 млрд дол. США. У результаті сформувався дефіцит зовнішньоторговельного балансу в розмірі 29,04 млрд дол. США.
 
-### 2. The recovery in trade value did not mean a full recovery in physical volumes
+Упродовж 2015–2024 років номінальна вартість імпорту зросла на 88,64%, тоді як експорту — на 9,46%.
 
-In 2022, the physical volume of exports fell by 40.1% and imports by 44.7% year over year. By 2024, physical-volume indices remained 34.71% below the 2021 level for exports and 37.87% below for imports. At the same time, the nominal value of imports in 2024 was only 2.85% below its 2021 level. The divergence between value and physical volume is important when interpreting trade dynamics.
+### 2. Відновлення вартості торгівлі не означало повного відновлення фізичних обсягів
 
-### 3. The commodity composition of imports changed
+У 2022 році фізичний обсяг експорту скоротився на 40,1%, а імпорту — на 44,7% порівняно з попереднім роком.
 
-The share of mineral fuels (HS group 27 in the notebook's classification) decreased from 29.01% in 2015 to 12.58% in 2024, a decline of 16.43 percentage points. In contrast, the share of vehicles (group 87) increased from 4.32% to 10.69%, while electrical machinery (group 85) increased from 7.18% to 11.85%.
+До 2024 року індекси фізичного обсягу залишалися нижчими за рівень 2021 року: для експорту — на 34,71%, для імпорту — на 37,87%.
 
-The largest absolute increases in import value among the selected groups were recorded for vehicles (+USD 5.94 billion), electrical machinery (+USD 5.69 billion), and mechanical machinery (+USD 3.08 billion) between 2015 and 2024.
+Водночас номінальна вартість імпорту у 2024 році була лише на 2,85% нижчою за рівень 2021 року. Розбіжність між вартісними показниками та фізичними обсягами є важливою для коректної інтерпретації динаміки зовнішньої торгівлі.
 
-### 4. The geography of imports shifted toward the EU and other suppliers
+### 3. Змінилася товарна структура імпорту
 
-The EU share of Ukraine's imports increased from 40.86% in 2015 to 50.46% in 2024. China became the largest individual supplier in the 2024 data. The notebook also records substantial changes in the leading suppliers of mineral fuels: Poland, Greece, and Lithuania replaced the Russian Federation, Belarus, and Germany in the Top 3 between 2015 and 2024.
+Частка мінерального палива (товарна група 27 за класифікацією, використаною в Notebook) скоротилася з 29,01% у 2015 році до 12,58% у 2024 році. Зменшення становило 16,43 відсоткового пункта.
 
-### 5. Supplier concentration differs substantially by commodity group
+Натомість частка транспортних засобів (група 87) зросла з 4,32% до 10,69%, а електричних машин (група 85) — з 7,18% до 11,85%.
 
-In 2024, China accounted for 54.52% of imports in electrical machinery and 81.49% in aircraft. These figures indicate high supplier concentration within those product groups. However, the overall share of the Top 10 supplier countries in total imports decreased from 68.83% in 2015 to 64.92% in 2024. Aggregate concentration and concentration within individual product groups therefore show different patterns.
+Серед вибраних товарних груп найбільше абсолютне зростання вартості імпорту у 2015–2024 роках зафіксовано для:
+- транспортних засобів — на 5,94 млрд дол. США;
+- електричних машин — на 5,69 млрд дол. США;
+- механічних машин — на 3,08 млрд дол. США.
 
-## What the analysis adds
+### 4. Географія імпорту змістилася в бік ЄС та інших країн-постачальників
 
-The main value of the study is the combined view of trade value, physical-volume indices, commodity composition, and supplier geography. Looking at nominal values alone could suggest that imports had almost returned to their 2021 level by 2024. The physical-volume comparison shows that this was not the case. The commodity and geographical breakdowns further reveal that the structure of imports changed substantially over the period.
+Частка країн Європейського Союзу в імпорті України зросла з 40,86% у 2015 році до 50,46% у 2024 році.
 
-## Methodology
+За даними 2024 року, Китай став найбільшим окремим постачальником.
 
-The notebook includes:
-- initial inspection of the source dataset and checks of missingness;
-- checks for duplicate records, key fields, units, and data types;
-- preparation of annual analytical tables;
-- year-over-year and 2015–2024 comparisons;
-- calculation of shares and percentage-point changes;
-- Top-3, Top-5, and Top-10 concentration comparisons;
-- comparison of trade values with average-price and physical-volume indices;
-- charts, tables, and written interpretation.
+Також Notebook фіксує суттєві зміни серед основних постачальників мінерального палива: у період між 2015 та 2024 роками Польща, Греція та Литва замінили Російську Федерацію, Білорусь і Німеччину в першій трійці країн-постачальників.
 
-## Limitations and careful interpretation
+### 5. Концентрація постачальників суттєво відрізняється залежно від товарної групи
 
-1. The study covers goods only, not services or the whole Ukrainian economy.
-2. Monetary values are nominal US dollars and are not adjusted for inflation.
-3. Average-price indices are not indices for a fixed basket of goods and may be affected by changes in commodity composition.
-4. The official 2024 value for group 99 (“Miscellaneous”) is unavailable. The commodity-group data cover 91.63% of total imports in 2024.
-5. Missing values were not replaced with zero.
-6. Some detailed geographic and commodity aggregates do not exactly reconcile with national totals. The notebook documents these discrepancies; their causes could not be established from the available data.
-7. Supplier concentration is not, by itself, proof of critical dependence or supply disruption risk.
-8. The analysis identifies statistical changes but does not establish their causes.
+У 2024 році на Китай припадало 54,52% імпорту електричних машин і 81,49% імпорту літальних апаратів у відповідних товарних групах. Ці показники свідчать про високу концентрацію постачальників у межах зазначених груп товарів.
 
-## Source
+Водночас загальна частка десяти найбільших країн-постачальників у сукупному імпорті України скоротилася з 68,83% у 2015 році до 64,92% у 2024 році.
 
-State Statistics Service of Ukraine — [Foreign trade in goods](https://stat.gov.ua/uk/explorer?urn=SSSU%3ADF_EXTERNAL_TRADE_OF_GOODS%28~%29).
+Отже, загальний рівень концентрації імпорту та концентрація постачальників в окремих товарних групах демонструють різні тенденції.
+
+## Практична цінність аналізу
+
+Основна цінність дослідження полягає в комплексному розгляді зовнішньої торгівлі через вартісні показники, індекси фізичного обсягу, товарну структуру та географію постачальників.
+
+Аналіз лише номінальної вартості міг би створити враження, що до 2024 року імпорт майже повернувся до рівня 2021 року. Однак порівняння індексів фізичного обсягу показує, що цього не відбулося.
+
+Деталізація за товарними групами та країнами-постачальниками додатково демонструє суттєву трансформацію структури імпорту протягом досліджуваного періоду.
+
+## Методологія
+
+Notebook містить такі етапи роботи:
+
+- первинний огляд вихідного набору даних та перевірку пропущених значень;
+- перевірку дублікатів, ключових полів, одиниць вимірювання та типів даних;
+- підготовку річних аналітичних таблиць;
+- порівняння показників рік до року та за період 2015–2024 років;
+- розрахунок часток і змін у відсоткових пунктах;
+- порівняння концентрації постачальників за показниками Top-3, Top-5 та Top-10;
+- зіставлення вартості торгівлі з індексами середніх цін і фізичного обсягу;
+- побудову графіків і таблиць та формування текстової інтерпретації результатів.
+
+## Обмеження та особливості інтерпретації
+
+1. Дослідження охоплює лише торгівлю товарами, а не послугами чи економіку України загалом.
+2. Вартісні показники наведено в номінальних доларах США без коригування на інфляцію.
+3. Індекси середніх цін не є індексами цін фіксованого кошика товарів і можуть залежати від змін товарної структури.
+4. Офіційне значення вартості товарної групи 99 («Різне») за 2024 рік відсутнє. Дані за товарними групами охоплюють 91,63% загального імпорту у 2024 році.
+5. Пропущені значення не замінювалися нулями.
+6. Деякі детальні географічні та товарні агрегати не повністю узгоджуються з національними підсумками. У Notebook задокументовано ці розбіжності, однак встановити їхні причини на основі доступних даних не вдалося.
+7. Концентрація постачальників сама по собі не є доказом критичної залежності або ризику перебоїв у постачанні.
+8. Аналіз виявляє статистичні зміни, але не встановлює причин їх виникнення.
+
+## Джерело даних
+
+Державна служба статистики України — [Зовнішня торгівля товарами](https://stat.gov.ua/uk/explorer?urn=SSSU%3ADF_EXTERNAL_TRADE_OF_GOODS%28~%29).
