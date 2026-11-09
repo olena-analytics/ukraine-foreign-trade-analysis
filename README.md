@@ -1,66 +1,58 @@
-# Ukraine Import Dependency Analysis
+# Зовнішня торгівля товарами України (2015–2024)
 
-## Project Overview
+Дослідницький аналіз зовнішньої торгівлі товарами України з акцентом на динаміку імпорту, товарну структуру, географію країн-постачальників, а також взаємозв’язок між вартістю торгівлі, індексами середніх цін та індексами фізичного обсягу.
 
-This project explores Ukraine's foreign trade in goods, focusing on import and export dynamics, trade balance, commodity structure, and potential import dependence.
+## Дослідницьке питання
 
-The research is based on publicly available official data published by the State Statistics Service of Ukraine.
+Як змінилися масштаби та структура зовнішньої торгівлі товарами України у 2015–2024 роках, зокрема після 2022 року, і як трансформувалися товарна та географічна структури імпорту?
 
-## Research Objectives
+## Дані
 
-- Analyze changes in Ukraine's imports and exports over time.
-- Examine the dynamics of the foreign trade balance.
-- Identify the main commodity groups in imports and exports.
-- Explore the geographical structure of trade by partner countries.
-- Investigate potential import dependence in selected commodity groups, subject to data availability and comparability.
+В аналізі використано річні офіційні статистичні дані Державної служби статистики України за 2015–2024 роки.
 
-## Data Sources
+- [Держстат України — Зовнішня торгівля товарами](https://stat.gov.ua/uk/explorer?urn=SSSU%3ADF_EXTERNAL_TRADE_OF_GOODS%28~%29)
+- Вартісні показники наведено в номінальних доларах США.
+- У використаній версії вихідний набір даних містить 27 177 рядків і 401 стовпець.
+- Аналіз охоплює лише торгівлю товарами; торгівля послугами не включена.
 
-**Primary source:**
+## Напрями аналізу
 
-[State Statistics Service of Ukraine — Foreign Trade in Goods](https://stat.gov.ua/uk/datasets/zovnishnya-torhivlya-tovaramy)
+1. Загальна динаміка експорту, імпорту та зовнішньоторговельного балансу.
+2. Товарна структура імпорту та зміни часток товарних груп.
+3. Індекси середніх цін і фізичного обсягу експорту та імпорту.
+4. Географічна структура імпорту та концентрація країн-постачальників.
+5. Динаміка окремих основних товарних груп імпорту.
 
-Additional official datasets will be considered where relevant, particularly industrial production and domestic trade statistics.
+## Основні результати
 
-## Research Period
+- Зовнішньоторговельний баланс України змінився від профіциту 0,61 млрд дол. США у 2015 році до дефіциту 29,04 млрд дол. США у 2024 році.
+- У 2015–2024 роках номінальна вартість імпорту зросла на 88,64%, тоді як експорту — на 9,46%.
+- У 2024 році індекс фізичного обсягу експорту був на 34,71% нижчим, а імпорту — на 37,87% нижчим порівняно з 2021 роком.
+- Частка мінерального палива в імпорті скоротилася з 29,01% у 2015 році до 12,58% у 2024 році. Натомість частка транспортних засобів зросла з 4,32% до 10,69%, а електричних машин — з 7,18% до 11,85%.
+- Частка країн ЄС у загальному імпорті зросла з 40,86% до 50,46%.
+- У 2024 році на Китай припадало 54,52% імпорту електричних машин і 81,49% імпорту літальних апаратів у відповідних товарних групах.
 
-The initial analysis of annual national import and export indicators focuses on 2015–2024.
+## Структура репозиторію
 
-Other indicators may have different periods of coverage. The actual availability of data will be checked separately for each analytical task.
+- `data/raw/` — вихідні дані, завантажені з ресурсу Держстату.
+- `data/processed/` — за потреби експортовані таблиці для аналізу; окремі файли оброблених даних наразі не включені.
+- `notebooks/` — Jupyter Notebook із повним процесом аналізу, розрахунками, візуалізаціями та висновками.
+- `visualizations/` — вибрані графіки, експортовані з Notebook.
+- `reports/` — стислий письмовий звіт з основними результатами та обмеженнями дослідження.
 
-## Planned Analysis
+## Методи та інструменти
 
-1. Data exploration and quality assessment.
-2. Import and export dynamics.
-3. Trade balance analysis.
-4. Commodity structure analysis.
-5. Trade partner analysis.
-6. Comparison of imports with domestic production, where comparable data is available.
+Python, Pandas, NumPy, розвідувальний аналіз даних (EDA), перевірка якості даних, агрегування, порівняння показників за роками, розрахунок відносних змін і змін у відсоткових пунктах, аналіз концентрації (частки Top-3, Top-5, Top-10), візуалізація даних.
 
-## Tools and Technologies
+## Обмеження дослідження
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- SQL (where applicable)
-- Excel / Google Sheets
+- Вартісні показники наведено в номінальному вираженні, без коригування на інфляцію.
+- Індекси середніх цін не є індексами цін фіксованого кошика товарів і можуть змінюватися під впливом змін товарної структури.
+- У 2024 році охоплення товарної структури становить 91,63%, оскільки відсутнє офіційне агреговане значення вартості для товарної групи 99 («Різне»).
+- Пропущені значення не замінювалися нулями.
+- Висока частка окремих країн у вартості імпорту свідчить про концентрацію постачання, але сама по собі не доводить критичної залежності або ризику перебоїв у постачанні.
+- Аналіз описує статистичні закономірності та зміни, але не встановлює їхніх причин.
 
-## Methodology and Limitations
+## Основний Notebook
 
-The analysis will use only available official data.
-
-Missing values will be assessed in the context of the dataset structure and will not automatically be treated as zero.
-
-Data coverage, classification differences, methodological changes, and territorial limitations will be documented before drawing conclusions.
-
-Import volumes and a negative trade balance alone are not sufficient to establish domestic import dependence.
-
-## Project Status
-
-**In progress** — data exploration and preparation.
-
-## Author
-
-Olena Savytska  
-GitHub: [olena-analytics](https://github.com/olena-analytics)
+Повний процес аналізу, розрахунки та візуалізації представлені в [Jupyter Notebook](notebooks/01_ukraine_import_analysis.ipynb).
