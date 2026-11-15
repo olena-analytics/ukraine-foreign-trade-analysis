@@ -216,7 +216,7 @@
 
 [Посилання на джерело даних](https://stat.gov.ua/uk/explorer?urn=SSSU:DF_EXTERNAL_TRADE_OF_GOODS%28~%29)
 
-**Аналітичний ноутбук:** [ukraine-foreign-trade-analysis](https://github.com/olena-analytics/ukraine-foreign-trade-analysis)
+**Аналітичний ноутбук:** [ukraine-foreign-trade-analysis](https://github.com/olena-analytics/ukraine-foreign-trade-analysis/blob/main/notebooks/01_ukraine_import_analysis.ipynb)
 
 Дослідження охоплює 2015–2024 роки. Вартісні показники зовнішньої торгівлі наведено в доларах США. Частки товарних груп і країн розраховано від відповідних загальних обсягів імпорту. Зміни часток наведено у відсоткових пунктах.
 
